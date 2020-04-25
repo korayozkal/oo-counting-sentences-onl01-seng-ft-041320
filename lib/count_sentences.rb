@@ -13,7 +13,6 @@ class String
   false  
   end 
 
-  end
 
   def exclamation?
 
