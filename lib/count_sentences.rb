@@ -28,6 +28,8 @@ end
   end
 
   def count_sentences
+    self.count_sentences
+    puts 
 
   end
 end
