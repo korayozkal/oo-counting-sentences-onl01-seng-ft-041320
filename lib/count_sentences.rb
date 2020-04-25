@@ -9,6 +9,8 @@ class String
 
   def question?
     self.end_with("?")
+  else
+    
   end 
 
   end
